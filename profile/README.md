@@ -22,10 +22,10 @@ ISO 27001, ISO 27018, ISO 27019, SoC 2 Type 2.
 ## Hiring
 
 We're a small team and we ship serious software for serious customers.
-If that sounds interesting: [synax.io/careers](https://synax.io/careers).
+If that sounds interesting: [synax.io](https://synax.io).
 
 ## Links
 
 🌐 [synax.io](https://synax.io)
-✉️ hello@synax.io
+✉️ info@synax.io
 📍 Basel, Switzerland
